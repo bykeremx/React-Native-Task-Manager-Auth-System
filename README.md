@@ -83,7 +83,7 @@ npx expo start
 
 | Giriş Ekranı / Login Screen | Kayıt Ekranı / Register Screen | Görev Listesi / Task List | Görev Ekle / Add Task |
 |--------------|----------------|-----------|----------|
-| ![Login Screen](https://via.placeholder.com/150) | ![Register Screen](https://via.placeholder.com/150) | ![Task List](https://via.placeholder.com/150) | ![Add Task](https://via.placeholder.com/150) |
+| ![Login Screen](./assets/images/login.png) | ![Register Screen](./assets/images/register.png) | ![Task List](./assets/images/taskList.png) | ![Add Task](./assets/images/taskCreate.png) |
 
 ---
 
